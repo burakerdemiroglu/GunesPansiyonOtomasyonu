@@ -1,0 +1,63 @@
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\Gunes Pansiyon Uygulaması.exe.config
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\Gunes Pansiyon Uygulaması.exe
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\Gunes Pansiyon Uygulaması.pdb
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes_Pansiyon_Uygulaması.Properties.Resources.resources
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes Pansiyon Uygulaması.csproj.GenerateResource.cache
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes Pansiyon Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes Pansiyon Uygulaması.exe
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes Pansiyon Uygulaması.pdb
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes_Pansiyon_Uygulaması.FrmYeniMusteri.resources
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes_Pansiyon_Uygulaması.FrmAdminGiris.resources
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes_Pansiyon_Uygulaması.FrmAnaForm.resources
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes_Pansiyon_Uygulaması.FrmOdalar.resources
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes_Pansiyon_Uygulaması.FrmMusteriler.resources
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes_Pansiyon_Uygulaması.FrmGelirGider.resources
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes_Pansiyon_Uygulaması.FrmStoklar.resources
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes Pansiyon Uygulaması.csproj.ResolveComReference.cache
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes_Pansiyon_Uygulaması.FrmRadyoDinle.resources
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes Pansiyon Uygulaması.exe.licenses
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes Pansiyon Uygulaması.csproj.CopyComplete
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes_Pansiyon_Uygulaması.FrmGazeteler.resources
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes_Pansiyon_Uygulaması.FrmSifreGuncelle.resources
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes Pansiyon Uygulaması.csprojAssemblyReference.cache
+C:\Users\90531\source\repos\Gunes Pansiyon Uygulaması\Gunes Pansiyon Uygulaması\obj\Debug\Gunes_Pansiyon_Uygulaması.FrmMesajlar.resources
