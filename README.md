@@ -40,6 +40,11 @@ Bu proje, C# programlama dili ve .NET Framework 4.6.1 kullanılarak geliştirile
 
 - FrmAdminGiris:
 Bu form, admin kullanıcılarının giriş yapabileceği bir ekranı temsil eder. Kullanıcı adı ve şifre alanlarına admin kimlik bilgileri girilerek giriş yapılabilir.
+ 
+<p align="center"> 
+   <img src="https://github.com/burakerdemiroglu/GunesPansiyonOtomasyonu/assets/35409987/5a273f4a-e549-4b8a-9f6d-73ec159baee9" width="600" height="450" > 
+</p>
+
 
 - FrmAnaForm:
    Bu form, diğer formlara erişebileceğiniz ana bir formdur. Yeni Müşteri, Odalar ve Şifre Güncelleme gibi farklı formlara bu formdan erişebilirsiniz.
@@ -68,9 +73,12 @@ Bu form, müşterilerin şifre güncellemelerinin yapıldığı bir formdur. Mü
 - FrmStoklar:
 Bu form, mutfak stokları, faturalar ve diğer giderlerin kaydedildiği bir formdur. Listview kontrolü kullanılarak giderler eklenir. Stoklar tablosu ile ilişkilidir.
 
-### FrmYeniMusteri:
+- FrmYeniMusteri:
 Bu form, yeni müşteri kayıtlarının oluşturulduğu ve oda bilgilerinin kaydedildiği bir formdur. MüsteriEkle ve İlgili odalar tabloları ile ilişkilidir.
 
+<p align="center"> 
+   <img src="https://github.com/burakerdemiroglu/GunesPansiyonOtomasyonu/assets/35409987/f3c41f79-15bf-4e7b-a635-8243d28de1f1" width="600" height="450" > 
+</p> 
 
 ## SQL Tabloları
 
